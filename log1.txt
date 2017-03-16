@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is E816-1347
+
+ Directory of C:\Users\mayank\.jenkins\workspace\HelloJava
+
+03/16/2017  06:50 PM    <DIR>          .
+03/16/2017  06:50 PM    <DIR>          ..
+03/16/2017  06:26 PM               679 hello.class
+03/16/2017  06:43 PM               159 hello.java
+03/16/2017  06:39 PM               619 log.txt
+03/16/2017  06:50 PM                 0 log1.txt
+03/16/2017  06:33 PM               571 mayank123.txt
+03/16/2017  06:26 PM               465 readme.txt
+03/16/2017  06:33 PM               517 testuat.txt
+               7 File(s)          3,010 bytes
+               2 Dir(s)  650,975,449,088 bytes free
